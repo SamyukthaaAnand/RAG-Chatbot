@@ -3,7 +3,6 @@ pdfplumber==0.7.4
 langchain==0.0.212
 huggingface-hub==0.16.4
 faiss-cpu==1.7.3
-ChatGroq==0.0.5
+ChatGroq
 python-dotenv==1.0.0
-openai==0.27.8
 llama-cpp-python==0.1.78
